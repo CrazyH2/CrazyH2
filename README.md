@@ -12,11 +12,3 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/cph101?color=g&label=User%20Followers&logo=github">
        </p>
 <p align="left"><a><img src="https://github-profile-trophy.vercel.app/?username=cph101&theme=gotham" alt="cph1)1" /></a> </p>
-
-![Cph101's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cph101&theme=gotham)
-
-
-![Cph101's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cph101&theme=gotham)
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cph101&theme=gotham"/></p><br>
