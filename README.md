@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img href="https://www.apple.com/uk/safari/" alt="safari" src="https://img.shields.io/badge/Uses-Safari-blue/?logo=safari&logocolor=blue&color=blue">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/cph101?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/cph101?color=g&label=User%20Followers&logo=github">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/crazyh2?color=g&label=User%20Followers&logo=github">
        </p>
