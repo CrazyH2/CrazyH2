@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=menlo&color=%23A3CCCA&height=60&width=600&lines=CrazyH+-+Python+Developer+;Loves+Every+Cat;Proficient+in+html)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=menlo&color=%23A3CCCA&height=60&width=600&lines=CrazyH+-+A+Python+Developer+;Loves+Every+Cat+In+The+World!;Proficient+in+html)](https://git.io/typing-svg)
 
-<h2>About me</h2>
+<h2>Information About me</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=cph101&label=Profile Visitors&color=001eff&style=flat" alt="3kh0" /> 
   <img href="https://www.apple.com/macos/" src="https://img.shields.io/badge/OS-MacOS-lightgrey/?logo=macos" alt="os">
