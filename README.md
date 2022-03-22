@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=menlo&color=%23A3CCCA&height=60&width=600&lines=CrazyH+-+A+Python+Developer+;Loves+Every+Cat+In+The+World!;Loves+Fresh+Air!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=menlo&color=%FFD966&height=60&width=600&lines=CrazyH+-+A+Python+Developer+;Loves+Every+Cat+In+The+World!;Loves+Fresh+Air!)](https://git.io/typing-svg)
 
 <h2>Information About me</h2>
 <p align="left"> 
