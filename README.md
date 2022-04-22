@@ -11,6 +11,6 @@
        </p>
 
 <h2>Github Coding Languages</h2>
-<a href="https://github.com/MichaelCurrin" alt="Go to GitHub profile">
+<a href="https://github.com/CrazyH2" alt="Go to GitHub profile">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyH2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
         alt="Top languages card" />
