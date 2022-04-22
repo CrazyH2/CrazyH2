@@ -3,7 +3,7 @@
 <h2>Github Shields</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=crazyh2&label=Profile Visitors&color=001eff&style=for-the-badge" alt="3kh0" /> 
-  <img href="https://www.apple.com/macos/" src="https://img.shields.io/badge/OS-MacOS-lightgrey/?logo=macos" alt="os">
+  <a href="https://www.apple.com/macos/" title="Go to Apple homepage"><img src="https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white" alt="OS - macOS"></a>
   <img href="https://developer.apple.com/xcode/" src="https://img.shields.io/badge/Editor-XCode-blue/?logo=xcode" alt="editor">
   <img href="https://www.apple.com/uk/apple-music/" src="https://img.shields.io/badge/Listens%20to-Apple%20Music-FA233B/?logo=applemusic&logoColor=warning&color=FA233B" alt="music">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
