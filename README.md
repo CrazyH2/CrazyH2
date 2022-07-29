@@ -1,3 +1,5 @@
+![Banner GIF](https://i.ibb.co/DVFRfJb/banner.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=F78C0B&center=true&vCenter=true&lines=Loves+Coding+Games;Likes+Google!;Using+GitHub+%E2%80%A6.)](https://git.io/typing-svg)
 
 <h2>Github Shields</h2>
