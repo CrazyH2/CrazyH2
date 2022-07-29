@@ -1,7 +1,9 @@
 <h1 align="center"> 👋 Hi There! </h1>
 
 <div align="center">
-  <img src="https://github.com/CrazyH2/CrazyH2/raw/main/banner.gif" width="100%">
+  <kbd>
+    <img src="https://github.com/CrazyH2/CrazyH2/raw/main/banner.gif" width="100%">
+  </kbd>
 </div>
 
 <h2 align="center"> 🙋‍♂️ About Myself </h2>
