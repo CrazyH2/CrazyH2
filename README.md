@@ -1,4 +1,7 @@
-<img src="https://github.com/CrazyH2/CrazyH2/raw/main/banner.gif" width="100%">
+<h1 align="center"> 👋 </h1>
+<div align="center">
+  <img src="https://github.com/CrazyH2/CrazyH2/raw/main/banner.gif" width="100%">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=F78C0B&center=true&vCenter=true&lines=Loves+Coding+Games;Likes+Google!;Using+GitHub+%E2%80%A6.)](https://git.io/typing-svg)
 
