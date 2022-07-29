@@ -1,23 +1,25 @@
-<h1 align="center"> 👋 </h1>
+<h1 align="center"> 👋 Hi There! </h1>
+
 <div align="center">
   <img src="https://github.com/CrazyH2/CrazyH2/raw/main/banner.gif" width="100%">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=F78C0B&center=true&vCenter=true&lines=Loves+Coding+Games;Likes+Google!;Using+GitHub+%E2%80%A6.)](https://git.io/typing-svg)
+<h2 align="center"> 🙋‍♂️ About Myself </h2>
+<p align="center">
+  <samp>A engaged programmer and very IT literate person from a extremely young age, I have two years of computing experience and over the years I have learned: Python, Javascript, Node.js, Html, CSS, Bash & GDScript.
+  </samp>
+  <p align="center"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />  <img src="https://komarev.com/ghpvc/?username=crazyh2&label=Profile Visitors&style=flat" /> 
+</p>
 
-<h2>Github Shields</h2>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=crazyh2&label=Profile Visitors&color=001eff&style=for-the-badge" alt="3kh0" /> 
-  <a href="https://www.apple.com/macos/" title="Go to Apple homepage"><img src="https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white" alt="OS - macOS"></a>
-  <img href="https://developer.apple.com/xcode/" src="https://img.shields.io/badge/Editor-XCode-blue/?logo=xcode" alt="editor">
-  <img href="https://www.apple.com/uk/apple-music/" src="https://img.shields.io/badge/Listens%20to-Apple%20Music-FA233B/?logo=applemusic&logoColor=warning&color=FA233B" alt="music">
-  <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
-  <img href="https://www.apple.com/uk/safari/" alt="safari" src="https://img.shields.io/badge/Uses-Safari-blue/?logo=safari&logocolor=blue&color=blue">
-       </p>
+<hr>
 
-<h2>Github Coding Languages</h2>
-<a href="https://github.com/CrazyH2" alt="Go to GitHub profile">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyH2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
-        alt="Top languages card" />
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=crazyh2&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6">
+    <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crazyh2&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"
+</p>
+</details>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<hr>
