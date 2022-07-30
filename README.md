@@ -29,7 +29,7 @@
 <details>
 <summary>Click to ask me a question!</summary>
 <p align="center">
-  <a href="https://www.w3schools.com">Visit W3Schools</a>
+  <a href="https://github.com/CrazyH2/CrazyH2/issues/new?title=Question%3A+&labels=question%2C&assignees=CrazyH2%2C">Open A Question</a>
 </p>
 </details>
 
