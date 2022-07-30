@@ -29,9 +29,7 @@
 <details>
 <summary>Click to ask me a question!</summary>
 <p align="center">
-  <kbd>
-    [![Repo Lockdown](https://github.com/CrazyH2/CrazyH2/actions/workflows/lockdown.yml/badge.svg)](https://github.com/CrazyH2/CrazyH2/actions/workflows/lockdown.yml)
-  </kbd>
+  <a href="https://www.w3schools.com">Visit W3Schools</a>
 </p>
 </details>
 
