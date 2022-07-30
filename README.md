@@ -30,9 +30,10 @@
 <summary>Click to ask me a question!</summary>
 <p align="center">
   <kbd>
-    <img src="https://github-readme-stats.vercel.app/api?username=crazyh2&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=crazyh2&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"
+    <iframe
+      src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
+      style="width:100%; height:300px;"
+    ></iframe>
   </kbd>
 </p>
 </details>
