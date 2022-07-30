@@ -30,16 +30,9 @@
 <summary>Click to ask me a question!</summary>
 <p align="center">
   <kbd>
-    <iframe
-      src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-      style="width:100%; height:300px;"
-    ></iframe>
+    [![Repo Lockdown](https://github.com/CrazyH2/CrazyH2/actions/workflows/lockdown.yml/badge.svg)](https://github.com/CrazyH2/CrazyH2/actions/workflows/lockdown.yml)
   </kbd>
 </p>
 </details>
 
 <hr>
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
