@@ -19,3 +19,4 @@ jobs:
       - uses: dessant/repo-lockdown@v2
         with:
           pr-comment: 'This repository does not accept pull requests.'
+          process-only: 'prs'
