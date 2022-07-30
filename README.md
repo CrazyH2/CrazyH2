@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi There! </h1>
+<h1 align="center"> 👋 Hi There METY! </h1>
 
 <div align="center">
   <img src="https://github.com/CrazyH2/CrazyH2/raw/main/banner.gif" width="100%">
