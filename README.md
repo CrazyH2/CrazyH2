@@ -6,7 +6,7 @@
 
 <h2 align="center"> 🙋‍♂️ About Myself </h2>
 <p align="center">
-  <samp>A engaged programmer and very IT literate person from a extremely young age, I have two years of computing experience and over the two years I have learned: Python, Javascript, Node.js, Html, CSS, Bash & GDScript.
+  <samp>A engaged programmer and very IT literate person from a extremely young age, I have two years of computing experience and over the two years I have learned: Python, Javascript, Node.js, Html, CSS, Swift, Bash & GDScript.
   </samp>
   <p align="center"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />  <img src="https://komarev.com/ghpvc/?username=crazyh2&label=Profile Visitors&style=flat" /> 
 </p>
