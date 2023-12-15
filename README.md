@@ -11,6 +11,29 @@
   <p align="center"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />  <img src="https://komarev.com/ghpvc/?username=crazyh2&label=Profile%20Visitors&style=flat" /> 
 </p>
 
+<br><br>
+
+<h2 align="center"> 📚 Languages </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bash,py,cpp,electron,godot,lua,swift" />
+  </a>
+</p>
+
+<h2 align="center"> 📝 IDEs </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=atom,github,replit,codepen,vim,visualstudio,vscode,wordpress" />
+  </a>
+</p>
+
+<h2 align="center"> 🔌 Libraries </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,atom,bash,cpp,cloudflare,codepen,css,discord,dotnet,electron,express,firebase,git,github,godot,html,js,linux,lua,md,mongodb,nodejs,ps,py,raspberrypi,replit,stackoverflow,swift,vim,visualstudio,vscode,wordpress" />
+  </a>
+</p>
+
 <hr>
 
 <details>
