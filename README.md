@@ -16,23 +16,24 @@
 <h2 align="center"> 📚 Languages </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bash,py,cpp,electron,godot,lua,swift" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bash,py,cpp,electron,godot,lua,swift,godot" />
   </a>
 </p>
 
 <h2 align="center"> 📝 IDEs </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,github,replit,codepen,vim,visualstudio,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=atom,github,replit,codepen,vim,visualstudio,vscode" />
   </a>
 </p>
 
-<h2 align="center"> 🔌 Libraries </h2>
+<h2 align="center"> 📜 Other </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,atom,bash,cpp,cloudflare,codepen,css,discord,dotnet,electron,express,firebase,git,github,godot,html,js,linux,lua,md,mongodb,nodejs,ps,py,raspberrypi,replit,stackoverflow,swift,vim,visualstudio,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,discord,express,firebase,git,linux,mongodb,raspberrypi,stackoverflow,wordpress" />
   </a>
 </p>
+
 
 <hr>
 
