@@ -16,7 +16,7 @@
 <h2 align="center"> 📚 Languages </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,electron,godot,swift,godot" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,electron,swift,godot" />
   </a>
 </p>
 
