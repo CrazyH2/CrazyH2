@@ -6,7 +6,7 @@
 
 <h2 align="center"> 🙋‍♂️ About Myself </h2>
 <p align="center">
-  <samp>A engaged programmer and very IT literate person from a extremely young age, I have two years of computing experience and over the two years I have learned: Python, Javascript, Node.js, Html, CSS, Swift, Bash, C++, Winforms, WPF, Lua & GDScript.
+  <samp>A engaged programmer and very IT literate person from a extremely young age, I have two years of computing experience and over the two years I have learned: Python, Node.js, Full stack, Swift, Winforms, WPF & GDScript.
   </samp>
   <p align="center"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" />  <img src="https://komarev.com/ghpvc/?username=crazyh2&label=Profile%20Visitors&style=flat" /> 
 </p>
@@ -16,14 +16,14 @@
 <h2 align="center"> 📚 Languages </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bash,py,cpp,electron,godot,lua,swift,godot" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,electron,godot,swift,godot" />
   </a>
 </p>
 
 <h2 align="center"> 📝 IDEs </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,github,replit,codepen,vim,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=atom,github,replit,codepen,visualstudio,vscode" />
   </a>
 </p>
 
