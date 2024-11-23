@@ -23,14 +23,14 @@
 <h2 align="center"> 📝 IDEs </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,github,replit,codepen,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,replit,visualstudio,vscode" />
   </a>
 </p>
 
 <h2 align="center"> 📜 Other </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,discord,express,firebase,git,linux,mongodb,raspberrypi,stackoverflow,wordpress" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,discord,express,git,linux,mongodb,raspberrypi,stackoverflow" />
   </a>
 </p>
 
