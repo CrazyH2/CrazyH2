@@ -1,8 +1,10 @@
-<h1 align="center"> 👋 Hi There! </h1>
-
 <div align="center">
   <img src="https://github.com/CrazyH2/CrazyH2/raw/main/banner.jpg" width="100%">
 </div>
+
+<h1 align="center"> 👋 Hi There! </h1>
+
+<br>
 
 <h2 align="center"> 🙋‍♂️ About Myself </h2>
 <p align="center">
